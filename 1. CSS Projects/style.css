@@ -1,0 +1,50 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#hello {
+	color: red !important;
+	margin-bottom: 1em;
+}
+
+.blue-box{
+	position: relative;
+	top: 200px;
+	left: 200px;
+	background-color: blue;
+	width: 500px;
+	height: 300px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.red-circle{
+	position: absolute;
+	top: 150px;
+	left: 250px;
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	margin: 20px;
+	border-radius: 50%;
+}
+
+.flag{
+
+}
+
+.saffron{
+
+}
+
+.white{
+
+}
+
+.green{
+
+}
